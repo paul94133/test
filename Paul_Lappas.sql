@@ -1,5 +1,6 @@
 -- Databricks notebook source
 Select count(*) From prod.workloads_sku_agg
+-- foo
 
 -- COMMAND ----------
 
